@@ -1,0 +1,19 @@
+Test cases:
+
+	Strona GoIT:
+https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917 
+		specyfikacja:
+https://faq-qa.m.goit.global/pl/
+
+
+Bug raports:
+
+	Strona GoIT:
+https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917 
+		specyfikacja:
+https://faq-qa.m.goit.global/pl/ 
+		kursy dla dzieci GoIT:
+https://goiteens.com/pl/ 
+
+	Strona Pro Test:
+https://pro-test.qa.m.goit.global/ 
